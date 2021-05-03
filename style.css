@@ -11,6 +11,10 @@
     z-index: 9999;
     text-align: justify;
   }
+  .nav-item {
+      text-decoration-color: black;
+      position: static;
+  }
   
   main {
     margin-top: 50px;
@@ -31,23 +35,23 @@
     text-align: center;
   }
   
-  .intro {
-    background-color: #bbb;
+  .Introduction {
+    background-color: rgb(143, 79, 79);
     text-align: center;
   }
   
   .About-Me {
-    background-color: #ddd;
+    background-color: rgb(204, 126, 126);
     text-align: center;
   }
   
   .Works {
-    background-color: #bbb;
+    background-color: rgb(143, 79, 79);
     text-align: center;
   }
   
   .Contact {
-    background-color: #ddd;
+    background-color: rgb(204, 126, 126);
     text-align: center;
   }
   
